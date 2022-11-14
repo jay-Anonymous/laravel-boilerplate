@@ -33,6 +33,10 @@ The project is open-sourced software licensed under the [MIT license](https://op
 
 ##Changes committed by jay-Anonymous
 
-Standard Toolkit initiation and trigger.
 UI elements addition.
+
+-Addition of placeholders and SVG.
+-Change of padding and margin width
+-Inline indentation of code
+-Standard toolkit,trigger design UI but not implemented.
 
