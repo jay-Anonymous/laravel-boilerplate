@@ -28,6 +28,7 @@ $factory->define(User::class, function (Faker $faker) {
         'first_name' => $faker->firstName,
         'last_name' => $faker->lastName,
         'email' => $faker->unique()->safeEmail,
+        'phone'=>$faker->unique()->PhoneNumber,
         'email_verified_at' => Carbon::now(),
         'password' => Hash::make('password'),
         'remember_token' => Str::random(10),
