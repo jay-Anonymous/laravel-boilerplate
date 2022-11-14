@@ -30,3 +30,9 @@ If you have a question/query/suggestion, feel free to send an e-mail to [ndirang
 ## License
 
 The project is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+##Changes committed by jay-Anonymous
+
+Standard Toolkit initiation and trigger.
+UI elements addition.
+
