@@ -93,7 +93,7 @@ $(document).ready(function () {
 
 // Function to reveal lightbox and adding YouTube autoplay
 function revealVideo(lightboxId) {
-    $(lightboxId).fadeIn();
+    $(lightboxId).fadeOut();
 }
 
 // Hiding the lightbox and removing YouTube autoplay
